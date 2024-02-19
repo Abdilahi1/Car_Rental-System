@@ -1,9 +1,10 @@
 "use client";
+/* this is the structure of my Button section*/
 
 import Image from "next/image"
 import {CustomButtonProbs} from '@/types';
 import { use } from "react"
-
+/* This display the style of my button element */
   return (
     <button
     disabled ={false}
