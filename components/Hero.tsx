@@ -1,11 +1,13 @@
+/* This is structure of my hero section and display the first page of my project */
 import Image from 'next/image';
-
+/
 import CustomButton from './CustomButton';
 
 const Hero = () => {
   const handleScroll = () => {
     
   }
+  /* displying some overview of my project */
   return (
     <div className='hero'>
         <div className='flex-1 pt-36 padding-x'>
