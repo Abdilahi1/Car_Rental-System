@@ -1,5 +1,7 @@
+//This section is tailwindcss for extra style of the project!!!!!!!!!!!!!!!!!!!!
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
